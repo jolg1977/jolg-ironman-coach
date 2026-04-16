@@ -1,1 +1,7 @@
-export default function App(){return (<h1>JOLG IRONMAN COACH</h1>);}
+export default function App() {
+  return (
+    <div style={{ padding: "20px", fontSize: "24px" }}>
+      ✅ JOLG IRONMAN COACH FUNCIONANDO
+    </div>
+  );
+}
